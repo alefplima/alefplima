@@ -27,13 +27,14 @@ information contradict each other.
 | Project | Description |
 |---|---|
 | [PAL2v-ROS](https://github.com/alefplima/PAL2v-ROS) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24499334.svg)](https://doi.org/10.5281/zenodo.24499334) | PAL2v library for ROS 2: fault-tolerant fusion of redundant sensors and the PAL2v-PI controller, with TurtleBot3/Gazebo and PX4 SITL experiments |
-| [NoCodeMCU](https://github.com/alefplima/nocodemcu) | No-code programming of Arduino and ESP32 with 1:1 blocks, Paraconsistent Logic (LPA2v) and real USB flashing |
+| [NoCodeMCU](https://github.com/alefplima/nocodemcu) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24502976.svg)](https://doi.org/10.5281/zenodo.24502976) | No-code programming of Arduino and ESP32 with 1:1 blocks, Paraconsistent Logic (LPA2v) and real USB flashing |
 | NoCodePLC | No-code environment for PLCs following IEC 61131-3 |
 | TaskAI | Interactive block-programming education platform with animation, the base of Keysed (INPI registration BR512026002477-3) |
 | [Keysed](https://keysed.com.br) | Simulator workbenches, LMS with classes and teacher dashboard, the animated series CODEVERSO and CUBIVERSO and the CODEVERSO game |
 
 ## Publications
 - LIMA, A. F. P. *PAL2v-ROS: Paraconsistent Annotated Logic with two-valued annotation for ROS 2* (software, v1.0.0). Zenodo, 2026. doi:[10.5281/zenodo.24499334](https://doi.org/10.5281/zenodo.24499334)
+- LIMA, A. F. P. *NoCodeMCU* (software, v0.2.0). Zenodo, 2026. doi:[10.5281/zenodo.24502976](https://doi.org/10.5281/zenodo.24502976)
 - LIMA, A. F. P.; SILVA FILHO, J. I. *Controle de qualidade dimensional em esteira transportadora com Lógica Paraconsistente Anotada: a grandeza que decide.* XV ENPG, UNISANTA, 2026.
 - LIMA, A. F. P.; OLIVEIRA, F. A. N. *Sistema especialista para validação de alagamentos urbanos utilizando visão computacional e Lógica Paraconsistente Anotada.* 18º COBRIC, UNISANTA, 2026.
 - LIMA, A. F. P. *Projeto de Redes de Computadores.* 1st ed. Florianópolis: Unicesumar, 2023 (book).
